@@ -13,3 +13,6 @@ scrcpy多设备投屏 https://www.jianshu.com/p/32e7254f1fdb
 github https://github.com/12thstan/android-phone-projection
 
 gitee https://gitee.com/c12th/android-phone-projection
+
+
+PS:主要编写的文件只有4个，其他都是图标和adb，也就是需要调用到的。
