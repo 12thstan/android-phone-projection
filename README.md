@@ -1,5 +1,6 @@
 # android-phone-projection
 
+
 scrcpy开源项目 https://github.com/Genymobile/scrcpy
 
 scrcpy投屏 https://bbs.125.la/thread-14583171-1-1.html
@@ -11,6 +12,7 @@ scrcpy多设备投屏 https://www.jianshu.com/p/32e7254f1fdb
 
 
 该软件和代码已开源
+
 github https://github.com/12thstan/android-phone-projection
 
 gitee https://gitee.com/c12th/android-phone-projection
