@@ -1,4 +1,5 @@
 # android-phone-projection
+
 scrcpy开源项目 https://github.com/Genymobile/scrcpy
 
 scrcpy投屏 https://bbs.125.la/thread-14583171-1-1.html
@@ -14,5 +15,3 @@ github https://github.com/12thstan/android-phone-projection
 
 gitee https://gitee.com/c12th/android-phone-projection
 
-
-PS:主要编写的文件只有4个，其他都是图标和adb，也就是需要调用到的。
