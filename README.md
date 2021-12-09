@@ -1,4 +1,5 @@
 # android-phone-projection
+PS:可能有部分机型无法投屏
 
 
 scrcpy开源项目 https://github.com/Genymobile/scrcpy
@@ -17,3 +18,7 @@ github https://github.com/12thstan/android-phone-projection
 
 gitee https://gitee.com/c12th/android-phone-projection
 
+
+软件截图
+
+![1639016670(1)](https://user-images.githubusercontent.com/77578398/145322979-fc72f7bb-7c78-4870-b7fc-af1312bfd201.jpg)
